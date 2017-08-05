@@ -1,7 +1,5 @@
 # [MDesign MES V1 (ربات مدیر کانال)](https://telegram.me/mohsenesmaeili)
 
-**An advanced and powerful administration bot based on NEW TG-CLI
-
 My ID: telegram.me/mohsenesmaeili
 
 Bot: telegram.me/chmhelp_bot
