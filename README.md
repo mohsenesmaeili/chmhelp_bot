@@ -19,8 +19,9 @@ sudo luarocks install oauth; sudo luarocks install redis-lua; sudo luarocks inst
 
 git clone https://github.com/mohsenesmaeili/chmhelp_bot && cd chmhelp_bot
 
+# Enter a Bot Token & your confirmation in config.lua.
+
 lua bot.lua
 
-# Enter a Bot Token & your confirmation in config.lua.
 
 ```
