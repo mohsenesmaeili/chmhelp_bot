@@ -5,6 +5,12 @@ My ID: telegram.me/mohsenesmaeili
 Bot: telegram.me/chmhelp_bot
 
 www.mohsenesmaeili.ir
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> cd09193a1c2c7d0aa4bc92fb2c9ffb308f33f336
 * * *
 
 # Installation
