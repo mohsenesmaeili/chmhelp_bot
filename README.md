@@ -1,4 +1,4 @@
-# [MDesign MES V1 (ربات مدیر کانال)](https://telegram.me/mohsenesmaeili)
+# [MDesign MES (ربات مدیر کانال)](https://telegram.me/mohsenesmaeili)
 
 My ID: telegram.me/mohsenesmaeili
 
